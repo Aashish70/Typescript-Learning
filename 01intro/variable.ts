@@ -6,4 +6,12 @@ let greeting: string = "Hello World";
 
 console.log(greeting);
 
+
+//number
+let userId: number = 334455.53
+
+//boolean 
+let isLoggedIn: boolean = true;
+
+
 export {}
